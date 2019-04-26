@@ -1,0 +1,15 @@
+export default {
+	getSessionRequested: "FETCH_SESSION",
+	sessionSuccess: "FETCH_SESSION_SUCCESS",
+	sessionLogout: "USER_SESSION_LOGOUT",
+	sessionFailure: "FETCH_SESSION_FAILURE",
+	loginRequest: "LOGIN_REQUEST",
+	loginSuccess: "LOGIN_SUCCESS",
+	loginFailure: "LOGIN_FAILURE",
+	logoutRequest: "LOGOUT_REQUEST",
+	logoutSuccess: "LOGOUT_SUCCESS",
+	logoutFailure: "LOGOUT_FAILURE",
+	flashClientRequest: "FLASH_CLIENT_REQUEST",
+	flashClientSuccess: "FLASH_CLIENT_SUCCESS",
+	flashClientFailure: "FLASH_CLIENT_FAILURE",
+}
